@@ -10,8 +10,8 @@
 <br />
 <br />
 
-- **Senior Full-Stack Developer** with **1 year of experience** building scalable, user-focused web applications.
-- Passionate about **pixel-perfect UI/UX**, **web animations**, and **cloud architecture**.
+- **Senior Full-Stack Developer**  with hands-on experience in building scalable, user-centric web applications.
+- Passionate about **pixel-perfect UI/UX**, **web-app**, and **cloud architecture**.
 - Certified in **PSM1 Scrum Master**, **Meta React Advanced**, **AWS Developer Associate**, and **AWS AI Educate**.
 - **Fun fact**: I obsess over smooth animations and clean code! ✨
 
@@ -23,14 +23,14 @@
 - 💻 Proficient in **React, Vue, Node.js, NestJS**, and **AWS** for high-performance applications.
 - 🌱 Exploring **Three.js** for immersive 3D visuals and **GraphQL** for optimized APIs.
 - 🏃‍♂️ Hobbies include **crafting sleek interfaces** and **running** to stay energized.
-- 💬 Ask me about **UI/UX design**, **web animations**, or **cloud solutions**!
+- 💬 Ask me about **UI/UX design**, **web-app**, or **cloud solutions**!
 
 **Certifications:**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/polymerproject.svg" alt="PSM1 Scrum Master"></code> PSM1 Scrum Master  
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg" alt="Meta Advanced"></code> Meta React Advanced  
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amazonaws.svg" alt="AWS Developer Associate"></code> AWS Developer Associate  
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amazonaws.svg" alt="AWS AI Educate"></code> AWS AI Educate
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amazonaws.svg" alt="AWS Developer Associate"></code>AWS Certified Developer – Associate  
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amazonaws.svg" alt="AWS Educate Introduction to Generative AI"></code>AWS Educate Introduction to Generative AI
 
 **Languages and Tools:**
 
@@ -41,7 +41,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/nestjs.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amazonaws.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftazure.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 
@@ -50,7 +49,8 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/go.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/graphql.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/three-dot-js.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftazure.svg"></code>
+
 
 **Favorite Sites:**
 
