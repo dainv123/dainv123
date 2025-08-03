@@ -63,7 +63,7 @@
 
 **Projects:**
 
-- **[DaiDev](https://daidev-bc51fcbb2e2d.herokuapp.com/)**: A platform for free UI templates, powered by **React**, **Express.js**, **MongoDB**, and **GraphQL**.
+- **[DaiDev](http://daidev.duckdns.org/)**: A platform for free UI templates, powered by **React**, **Express.js**, **MongoDB**, and **GraphQL**.
 
 📊 **Recent Activity:**
 <!--START_SECTION:waka-->
