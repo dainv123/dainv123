@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Dai Nguyen
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dainguyen"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" /></a>
+  <a href="https://www.linkedin.com/in/dai-nguyen-72a10b166/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" /></a>
   <a href="https://github.com/dainv123/"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
   <a href="mailto:ngdai0402@gmail.com"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" /></a>
   <a href="http://daidev.duckdns.org/"><img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/safari.svg" /></a>
